@@ -1,0 +1,4 @@
+---
+title: 🔍 Поиск
+layout: default
+---

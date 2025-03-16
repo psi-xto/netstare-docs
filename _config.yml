@@ -2,5 +2,10 @@ title: 'docs:NetStare'
 description: Документация аналитической системы мониторинга NetStare
 theme: just-the-docs
 
+aux_links:
+  "Подробнее о NetStare":
+    - "https://netstare.ru"
+aux_links_new_tab: true
+
 url: https://netstare.ru
 
