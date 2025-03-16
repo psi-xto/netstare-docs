@@ -9,7 +9,8 @@ aux_links_new_tab: true
 
 url: https://netstare.ru
 
-logo: "/images/favicon.png"
+favicon_ico: "/images/favicon.png"
+logo: "/images/logo.png"
 
 callouts:
   warning:
