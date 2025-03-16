@@ -9,3 +9,13 @@ aux_links_new_tab: true
 
 url: https://netstare.ru
 
+callouts:
+  warning:
+    title: Внимание
+    color: red
+  important:
+    title: Важно
+    color: blue
+  note:
+    title: Заметка
+    color: purple

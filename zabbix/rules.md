@@ -12,5 +12,5 @@ nav_order: 1
 > 2. Для блока Устройств обрабатываются только непустые группы
 > 3. Для блока Проблем обрабатываются только проблемные группы
 > 4. Фильтрация узлов и элементов данных производится по наличию тега 'netstare': 'true'
-![screenshot](../images/host-tag)
-![screenshot](../images/item-tag)
+![screenshot](../images/host-tag.png)
+![screenshot](../images/item-tag.png)
