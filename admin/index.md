@@ -1,4 +1,0 @@
----
-title: ⚙️ Управление
-layout: default
----

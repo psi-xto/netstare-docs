@@ -11,7 +11,7 @@ layout: default
 5. 📚 Помощь
 
 
-{: .note-title }
+{: .important-title }
 > Структура клавиатуры
 >
 > ![screenshot](../images/start.png)
