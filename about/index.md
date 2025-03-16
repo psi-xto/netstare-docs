@@ -10,4 +10,8 @@ layout: default
 4. 👤 Личный кабинет
 5. 📚 Помощь
 
-![screenshot](../images/start.png)
+
+{: .note-title }
+> Структура клавиатуры
+>
+> ![screenshot](../images/start.png)
